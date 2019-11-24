@@ -1,8 +1,6 @@
 /*******************************************
  *  Raft.java 
  *  Engine for Text-Based Adventure Game
- *  COMP3411 Artificial Intelligence
- *  UNSW Session 1, 2017
 */
 
 import java.util.*;
