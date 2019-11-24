@@ -5,7 +5,7 @@ import java.awt.geom.Point2D;
  * Representation of AgentReach class Performs reachable tests from startPoint
  * to endPoint Idea founded from Flood/Seed Fill algorithm
  * 
- * @author z3460693
+ * @author  bennygmate
  */
 public class AgentReach {
 	private final Point2D.Double startPoint;
