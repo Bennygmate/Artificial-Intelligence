@@ -7,7 +7,7 @@ import java.util.*;
  * to a move queue which are carried out first before deciding what other moves
  * to make.
  * 
- * @author z3460693
+ * @author  bennygmate
  */
 public class AgentPlanner {
 	private WorldModel wm;
