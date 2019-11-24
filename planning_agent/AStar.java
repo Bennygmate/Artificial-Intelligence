@@ -5,10 +5,9 @@ import java.awt.geom.Point2D;
  * Representation of AStar algorithm. Performs the A* search on a 2D-grid given
  * a agentMap, a start and end point. G Cost for each Forward Move is 1, and
  * different for different tiles depending on the situation of the agent
- * Heuristic is the Manhattan distance Coding Idea came from my own CS2911
- * Assignment 2 (Implement A* On Java)
- * 
- * @author z3460693
+ * Heuristic is the Manhattan distance Coding 
+ * v
+ * @author bennygmate
  */
 public class AStar {
 	private final Point2D.Double startPoint;
