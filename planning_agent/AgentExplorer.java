@@ -7,7 +7,7 @@ import java.awt.geom.Point2D.Double;
  * map which will reveal hidden information Explores outwards in a 5x5 grid from
  * any given point
  * 
- * @author z3460693
+ * @author  bennygmate
  */
 public class AgentExplorer {
 	private final Map<Point2D.Double, Character> agentMap;
