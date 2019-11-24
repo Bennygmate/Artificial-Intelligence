@@ -5,7 +5,7 @@ import java.awt.geom.Point2D;
  * Representation of WorldModel class Maintains world model of environment and
  * agent tools
  * 
- * @author z3460693
+ * @author bennygmate
  */
 
 public class WorldModel {
